@@ -4,7 +4,7 @@ ATLAS PC is a hardware, firmware, and software engineering project that seeks to
 ## Hardware Platform
 ATLAS PC or Project ATLAS is a long-term independent project that focuses on building a personal computer from the ground up
 
-##Status Phase 1 - Digital Logic
+## Status Phase 1 - Digital Logic
 Currently developing:
 - Digital logic components
 - Multiplexers
