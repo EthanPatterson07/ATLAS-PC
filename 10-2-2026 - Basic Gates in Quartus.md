@@ -23,3 +23,5 @@
 - Quartus VHDL will be used for most of the project, with the other ideas as supporting evidence as to why the code works
 
 ## Develop the Prototype
+- Here is a quick prototype of the circuit diagram for all of the basic circuits
+![Basic Circuits](
