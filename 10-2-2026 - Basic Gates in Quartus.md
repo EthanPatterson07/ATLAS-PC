@@ -24,4 +24,4 @@
 
 ## Develop the Prototype
 - Here is a quick prototype of the circuit diagram for all of the basic circuits
-![Basic Circuits](
+![Basic Circuits](../../media/10-2-2026CircuitDesign.png)
