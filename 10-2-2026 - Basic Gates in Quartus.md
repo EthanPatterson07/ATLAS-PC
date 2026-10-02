@@ -13,6 +13,7 @@
 - These will be two-input gates except for NOT; the inputs of which will be A and B, and the output will be C, D, E...
 
 ## Brainstorming
+- Breadboard and IC's
 - Quartus VHDL
 - Circuit Diagram
 - Truth Table
@@ -20,9 +21,9 @@
 - These are all possible ways of representing basic circuit logic
 
 ## Choosing The Best Implementation
-- Quartus VHDL will be used for most of the project, with the other ideas as supporting evidence as to why the code works
+- Breadboard and IC's will be used for most of the project, with the other ideas as supporting evidence as to why the circuit works
 
 ## Develop the Prototype
 - Here is a quick prototype of the circuit diagram and truth table for all of the basic circuits
 - ![Basic Circuits](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/10-2-2026CircuitDesign.png)
-- ![Basic Circuits Truth Table](
+- ![Basic Circuits Truth Table](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/10-2-2026-GatesTruthTable.png)
