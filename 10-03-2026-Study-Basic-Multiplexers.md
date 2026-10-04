@@ -35,3 +35,4 @@ $$
 - If Sel1 and Sel0 are off, we get A; 01 is B, 10 is C, and 11 is D
 - After an extremely long time trying to arrange the logic, I have finally created a 4:1 MUX out of 2:1 MUXes
 
+![4:1 MUX](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/4TO1MUX-10-03-2026.png)
