@@ -1,5 +1,5 @@
 # Purpose
-MUX (Multiplexers) are used to turn multiple inputs into a single output line, saving money, wiring, and efficiency
+MUX (Multiplexers) are used to turn multiple inputs into a single output line, saving money, wiring, and improving efficiency
 
 # Concept
 - A 2:1 MUX is a gate that picks one input from 2 possible inputs to pass its signal to the output
@@ -22,3 +22,6 @@ $$
 
 - Now, we can draw a basic circuit diagram to show the logical gates in the expression
 
+![MUX Circuit](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUXCircuit-10-03-2026.png)
+
+- Since our final gate before F is an OR gate (POS form), we can now make the circuit much cheaper to make by turning all gates into NAND gates per De Morgan's Law
