@@ -22,7 +22,7 @@ $$
 
 - Now, we can draw a basic circuit diagram to show the logical gates in the expression
 
-![MUX Circuit](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUXCircuit-10-03-2026.png)
+![MUX Circuit](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUXCircuitCorrect-10-03-2026.png)
 
 - Since our final gate before F is an OR gate (SOP form), we can now make the circuit much cheaper to make by turning all gates into NAND gates per De Morgan's Law
 
