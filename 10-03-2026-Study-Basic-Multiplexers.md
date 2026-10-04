@@ -26,8 +26,12 @@ $$
 
 - Since our final gate before F is an OR gate (SOP form), we can now make the circuit much cheaper to make by turning all gates into NAND gates per De Morgan's Law
 
-![MUX Circuit NAND](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUXCircuitNAND-10-03-2026.png)
+![MUX Circuit NAND](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUXCircuitNANDCorrect-10-03-2026.png)
 
 # Apply
 - We can't practically use a similar method to make a 4:1 MUX because the truth table would contain 6 inputs, meaning 64 different combinations of 1s and 0s
 - However, we can construct a 4:1 MUX out of 2:1 MUXes
+- If we have the inputs Sel1 and Sel0, we can specify which of the 4 outputs we want: A, B, C, or D.
+- If Sel1 and Sel0 are off, we get A; 01 is B, 10 is C, and 11 is D
+- After an extremely long time trying to arrange the logic, I have finally created a 4:1 MUX out of 2:1 MUXes
+
