@@ -9,4 +9,6 @@ MUX (Multiplexers) are used to turn multiple inputs into a single output line, s
 
 # Model
 - We can then establish a truth table that represents this logical relationship
-- 
+- ![2:1 MUX](https://github.com/EthanPatterson07/ATLAS-PC/blob/media/MUX10-03-2026.png)
+- We can then use a K-map to simplify the expression
+- ![MUX K-map]()
